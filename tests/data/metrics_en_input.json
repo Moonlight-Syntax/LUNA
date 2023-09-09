@@ -1,0 +1,26 @@
+[
+  {
+    "hyp": "Every human being is a world.",
+    "ref": "Each person is a world."
+  },
+  {
+    "hyp": "Where are you?",
+    "ref": "What's your location?"
+  },
+  {
+    "hyp": "It's a dead end.",
+    "ref": "This is a dead-end street."
+  },
+  {
+    "hyp": "Elephants are the largest land animals alive today.",
+    "ref": "Elephants are the largest living terrestrial animals."
+  },
+  {
+    "hyp": "You're on my clock!",
+    "ref": "You piss me off!"
+  },
+  {
+    "hyp": "Good night. Sweet dreams.",
+    "ref": "Good night. Sweet dreams."
+  }
+]
